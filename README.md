@@ -1,4 +1,4 @@
-# Introduction-to-Embedded-Systems-Lab
+# Introduction to Embedded Systems Lab
 
 ## About This Repository 
 The repository compiles lab assignments from my Introduction to Embedded Systems course, which covered the following concepts: CPU, registers, buses, memory, I/O interfaces, number systems (arithmetic and information representation), assembly language programming (addressing techniques, arithmetic and logic operations, branching and looping, stack operations, procedure calls, parameter passing). 
