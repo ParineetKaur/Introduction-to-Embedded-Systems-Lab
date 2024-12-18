@@ -1,7 +1,7 @@
 # Introduction-to-Embedded-Systems-Lab
 
 ## About This Repository 
-The repository compiles projects and assignments from my Introduction to Embedded Systems course, which covered the following concepts: CPU, registers, buses, memory, I/O interfaces, number systems (arithmetic and information representation), assembly language programming (addressing techniques, arithmetic and logic operations, branching and looping, stack operations, procedure calls, parameter passing). 
+The repository compiles lab assignments from my Introduction to Embedded Systems course, which covered the following concepts: CPU, registers, buses, memory, I/O interfaces, number systems (arithmetic and information representation), assembly language programming (addressing techniques, arithmetic and logic operations, branching and looping, stack operations, procedure calls, parameter passing). 
 
 ## Learning Outcomes
 1. Perform number base conversions, integer arithmetic, specify range and precision, and detect overflow in signed and unsigned fixed-point number systems.
